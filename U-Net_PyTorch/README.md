@@ -1,4 +1,7 @@
-# U-Net_Pytorch
+# U-Net
+**TITLE**
+[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+
 한요섭님의 유튜브 강좌와 GITHUB를 참고하며 공부 후 업로드한 자료입니다.
 해당 링크를 첨부하도록 하겠습니다.
 
