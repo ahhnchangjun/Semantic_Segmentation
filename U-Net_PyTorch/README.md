@@ -24,3 +24,5 @@
  
 
  - 다운로드: [ImageNet](https://imagej.net/events/isbi-2012-segmentation-challenge) (register 후 download) or 한요섭님의 [GITHUB](https://github.com/hanyoseob/youtube-cnn-002-pytorch-unet)
+
+직접 보고 따라하며 도움이 많이된 자료입니다 !
